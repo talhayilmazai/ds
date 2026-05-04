@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-ChildItem 'c:\\\\Users\\\\talha.yilmaz\\\\Desktop\\\\Talha\\\\ds' -Force | Select-Object Name, Length, LastWriteTime\")",
+      "Bash(py --version)"
+    ]
+  }
+}
